@@ -45,10 +45,8 @@ Both versions rely entirely on Python’s built-in libraries and do not require 
 
 ---
 
-## How to Run
+## How to Run    ```bash python main.py
 
-### Tkinter GUI Version
-```bash python main.py
 
 ## Purpose
 This project was developed to strengthen my understanding of Python fundamentals, GUI development, and visualization using Turtle.  
@@ -96,8 +94,11 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## Author
-**Joy Nduta**  
+**Joy Murengi**  
 Python developer passionate about creative coding and beginner-friendly projects.
+### Tkinter GUI Version
+
+
 
 
 
