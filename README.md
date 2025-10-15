@@ -16,6 +16,12 @@ This repository contains a collection of Python projects showcasing a range of s
 | **Snakes and Ladders Game** | Digital version of the classic board game with dice roll simulation, snakes & ladders mechanics, and two-player support. Displays win/loss conditions. | Python, loops, conditionals, game logic, console interaction |
 
 ---
+## Technologies Used Across Projects
 
-## Folder Structure
+- Python (variables, functions, loops, conditionals, OOP)
+- Tkinter (GUI development for desktop applications)
+- Web scraping with `requests` and `BeautifulSoup`
+- CSV file handling for data persistence
+- Game logic implementation and algorithms
+
 
